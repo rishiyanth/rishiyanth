@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h2> Myself Rishyanth, CS undergrad from Thiagarajar College of Engineering, Madurai. </h3>
+<h2> Myself Rishyanth, pre-final year CS undergrad from Thiagarajar College of Engineering, Madurai. </h3>
 
 <!--
 **rishiyanth/rishiyanth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
